@@ -1,6 +1,4 @@
-# hello-word
-Primeiro Repositório hello-word
-- 👋 Hi, I’m Saulo Pascoalino ( @SauloSabion )
+- 👋 Hi, I’m Saulo Pascoalino ( @SauloPascoal )
 - 👀 I’m interested in in technology knowledge
 - 🌱 I’m currently learning automation
 
